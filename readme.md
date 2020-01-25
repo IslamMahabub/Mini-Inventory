@@ -6,7 +6,7 @@ Clone the project
 - run composer install
 - copy .env.example to .env and configer the database
 - run php artisan migrate 
-- run php db:seed
+- run php artisan db:seed
 
 Login Credential 
 
